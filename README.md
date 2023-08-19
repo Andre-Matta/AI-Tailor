@@ -1,4 +1,4 @@
-# Your AI Tailor
+# AI Tailor
 
 
 TAILOR AI Art Generator is a mobile application designed to provide users with 
